@@ -79,6 +79,7 @@
 **发布单位：景华时代新媒体部（JHNM-TEAM）**
 **版权所有 © 景华时代新媒体部（JHNM-TEAM）**
 License: **CC BY-NC-ND 4.0 International**
+
 未经许可，不得复制、修改、商用或再分发。
 Maintained by 梁思景（VSO-01） × 景华时代新媒体团队（JHNM-TEAM）
 
